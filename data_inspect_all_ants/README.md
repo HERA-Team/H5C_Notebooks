@@ -16,3 +16,4 @@
 * [data_inspect_all_ants_2459503.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/data_inspect_all_ants/data_inspect_all_ants_2459503.ipynb)
 * [data_inspect_all_ants_2459505.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/data_inspect_all_ants/data_inspect_all_ants_2459505.ipynb)
 * [data_inspect_all_ants_2459506.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/data_inspect_all_ants/data_inspect_all_ants_2459506.ipynb)
+* [data_inspect_all_ants_2459527.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/data_inspect_all_ants/data_inspect_all_ants_2459527.ipynb)
