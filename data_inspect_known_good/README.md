@@ -16,6 +16,7 @@
 * [data_inspect_known_good_2459503.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/data_inspect_known_good/data_inspect_known_good_2459503.ipynb)
 * [data_inspect_known_good_2459505.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/data_inspect_known_good/data_inspect_known_good_2459505.ipynb)
 * [data_inspect_known_good_2459506.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/data_inspect_known_good/data_inspect_known_good_2459506.ipynb)
+* [data_inspect_known_good_2459513.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/data_inspect_known_good/data_inspect_known_good_2459513.ipynb)
 * [data_inspect_known_good_2459527.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/data_inspect_known_good/data_inspect_known_good_2459527.ipynb)
 * [data_inspect_known_good_2459533.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/data_inspect_known_good/data_inspect_known_good_2459533.ipynb)
 * [data_inspect_known_good_2459534.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/data_inspect_known_good/data_inspect_known_good_2459534.ipynb)
