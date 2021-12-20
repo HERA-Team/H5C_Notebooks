@@ -23,6 +23,7 @@
 * [data_inspect_all_ants_2459524.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/data_inspect_all_ants/data_inspect_all_ants_2459524.ipynb)
 * [data_inspect_all_ants_2459527.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/data_inspect_all_ants/data_inspect_all_ants_2459527.ipynb)
 * [data_inspect_all_ants_2459530.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/data_inspect_all_ants/data_inspect_all_ants_2459530.ipynb)
+* [data_inspect_all_ants_2459532.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/data_inspect_all_ants/data_inspect_all_ants_2459532.ipynb)
 * [data_inspect_all_ants_2459533.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/data_inspect_all_ants/data_inspect_all_ants_2459533.ipynb)
 * [data_inspect_all_ants_2459534.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/data_inspect_all_ants/data_inspect_all_ants_2459534.ipynb)
 * [data_inspect_all_ants_2459535.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/data_inspect_all_ants/data_inspect_all_ants_2459535.ipynb)
