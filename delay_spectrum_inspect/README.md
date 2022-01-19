@@ -68,3 +68,7 @@
 * [delay_spectrum_inspect_2459592.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/delay_spectrum_inspect/delay_spectrum_inspect_2459592.html)
 * [delay_spectrum_inspect_2459593.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/delay_spectrum_inspect/delay_spectrum_inspect_2459593.html)
 * [delay_spectrum_inspect_2459594.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/delay_spectrum_inspect/delay_spectrum_inspect_2459594.html)
+* [delay_spectrum_inspect_2459595.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/delay_spectrum_inspect/delay_spectrum_inspect_2459595.html)
+* [delay_spectrum_inspect_2459596.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/delay_spectrum_inspect/delay_spectrum_inspect_2459596.html)
+* [delay_spectrum_inspect_2459597.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/delay_spectrum_inspect/delay_spectrum_inspect_2459597.html)
+* [redcal_inspect_known_good_2459596.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/delay_spectrum_inspect/redcal_inspect_known_good_2459596.ipynb)
