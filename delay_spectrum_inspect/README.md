@@ -84,4 +84,5 @@
 * [delay_spectrum_inspect_2459612.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/delay_spectrum_inspect/delay_spectrum_inspect_2459612.html)
 * [delay_spectrum_inspect_2459613.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/delay_spectrum_inspect/delay_spectrum_inspect_2459613.html)
 * [delay_spectrum_inspect_2459614.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/delay_spectrum_inspect/delay_spectrum_inspect_2459614.html)
+* [delay_spectrum_inspect_2459615.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/delay_spectrum_inspect/delay_spectrum_inspect_2459615.html)
 * [redcal_inspect_known_good_2459596.ipynb](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/delay_spectrum_inspect/redcal_inspect_known_good_2459596.ipynb)
