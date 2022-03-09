@@ -103,6 +103,8 @@
 * [delay_spectrum_inspect_2459632.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/delay_spectrum_inspect/delay_spectrum_inspect_2459632.html)
 * [delay_spectrum_inspect_2459633.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/delay_spectrum_inspect/delay_spectrum_inspect_2459633.html)
 * [delay_spectrum_inspect_2459634.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/delay_spectrum_inspect/delay_spectrum_inspect_2459634.html)
+* [delay_spectrum_inspect_2459635.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/delay_spectrum_inspect/delay_spectrum_inspect_2459635.html)
+* [delay_spectrum_inspect_2459636.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/delay_spectrum_inspect/delay_spectrum_inspect_2459636.html)
 * [delay_spectrum_inspect_2459637.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/delay_spectrum_inspect/delay_spectrum_inspect_2459637.html)
 * [delay_spectrum_inspect_2459638.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/delay_spectrum_inspect/delay_spectrum_inspect_2459638.html)
 * [delay_spectrum_inspect_2459639.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/delay_spectrum_inspect/delay_spectrum_inspect_2459639.html)
