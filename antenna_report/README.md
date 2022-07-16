@@ -93,6 +93,7 @@
 * [antenna_223_report.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/antenna_report/antenna_223_report.html)
 * [antenna_224_report.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/antenna_report/antenna_224_report.html)
 * [antenna_23_report.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/antenna_report/antenna_23_report.html)
+* [antenna_241_report.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/antenna_report/antenna_241_report.html)
 * [antenna_24_report.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/antenna_report/antenna_24_report.html)
 * [antenna_25_report.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/antenna_report/antenna_25_report.html)
 * [antenna_26_report.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H5C_Notebooks/blob/main/antenna_report/antenna_26_report.html)
