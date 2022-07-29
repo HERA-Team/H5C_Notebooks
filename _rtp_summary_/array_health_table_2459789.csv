@@ -17,10 +17,11 @@ Nodes Not Correlating,N10
   ,
 NIGHTLY ANALYSIS SUMMARY,
 Ant Metrics Done?,Y
-Ant Metrics Flagged Antennas,65 / 147 (44.2%)
+Ant Metrics Flagged Antennas,69 / 147 (46.9%)
 Auto Metrics Done?,Y
 Auto Metrics Flagged Antennas,120 / 147 (81.6%)
-Redcal Done?,N
-Never Flagged Antennas,17 / 147 (11.6%)
-A Priori Good Antennas Flagged,"73 / 87 total a priori good antennas: 5, 7, 9, 10, 15, 16, 17, 19, 20, 21, 30, 31, 37, 45, 50, 51, 53, 54, 55, 56, 57, 66, 69, 72, 81, 83, 84, 88, 91, 92, 93, 99, 101, 103, 105, 106, 107, 108, 109, 111, 117, 118, 121, 122, 123, 128, 129, 130, 135, 138, 140, 141, 142, 144, 145, 160, 161, 164, 165, 167, 169, 170, 176, 177, 178, 179, 181, 183, 185, 186, 187, 189, 190"
+Redcal Done?,Y
+Redcal Flagged Antennas,7 / 147 (4.8%)
+Never Flagged Antennas,9 / 147 (6.1%)
+A Priori Good Antennas Flagged,"81 / 87 total a priori good antennas: 5, 7, 9, 10, 15, 16, 17, 19, 20, 21, 29, 30, 31, 37, 45, 46, 50, 51, 53, 54, 55, 56, 57, 65, 66, 68, 69, 71, 72, 73, 81, 83, 84, 88, 91, 92, 93, 99, 101, 103, 105, 106, 107, 108, 109, 111, 117, 118, 121, 122, 123, 128, 129, 130, 135, 138, 140, 141, 142, 143, 144, 145, 160, 161, 164, 165, 167, 169, 170, 176, 177, 178, 179, 181, 183, 185, 186, 187, 189, 190, 191"
 A Priori Bad Antennas Not Flagged,"3 / 60 total a priori bad antennas: 3, 100, 116"
