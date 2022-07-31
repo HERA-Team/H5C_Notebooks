@@ -21,7 +21,7 @@ Ant Metrics Flagged Antennas,78 / 147 (53.1%)
 Auto Metrics Done?,Y
 Auto Metrics Flagged Antennas,101 / 147 (68.7%)
 Redcal Done?,Y
-Redcal Flagged Antennas,6 / 147 (4.1%)
-Never Flagged Antennas,25 / 147 (17.0%)
-A Priori Good Antennas Flagged,"66 / 87 total a priori good antennas: 5, 7, 10, 16, 19, 20, 30, 31, 37, 41, 42, 45, 50, 51, 54, 55, 56, 57, 68, 69, 71, 72, 73, 81, 83, 84, 88, 91, 92, 93, 99, 101, 103, 105, 106, 107, 108, 109, 111, 117, 118, 121, 122, 123, 128, 129, 130, 135, 138, 141, 142, 145, 160, 161, 162, 165, 167, 169, 170, 176, 177, 178, 179, 181, 187, 190"
+Redcal Flagged Antennas,13 / 147 (8.8%)
+Never Flagged Antennas,18 / 147 (12.2%)
+A Priori Good Antennas Flagged,"73 / 87 total a priori good antennas: 5, 7, 10, 16, 17, 19, 20, 30, 31, 37, 41, 42, 45, 50, 51, 54, 55, 56, 57, 68, 69, 71, 72, 73, 81, 83, 84, 88, 91, 92, 93, 99, 101, 103, 105, 106, 107, 108, 109, 111, 117, 118, 121, 122, 123, 128, 129, 130, 135, 138, 141, 142, 143, 144, 145, 160, 161, 162, 163, 164, 165, 167, 169, 170, 176, 177, 178, 179, 181, 186, 187, 189, 190"
 A Priori Bad Antennas Not Flagged,"4 / 60 total a priori bad antennas: 3, 38, 67, 100"
