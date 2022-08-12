@@ -184,3 +184,4 @@
 * [rfi_inspect_2459798.ipynb (2022-8-6)](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/rfi_inspect/rfi_inspect_2459798.ipynb)
 * [rfi_inspect_2459799.ipynb (2022-8-7)](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/rfi_inspect/rfi_inspect_2459799.ipynb)
 * [rfi_inspect_2459800.ipynb (2022-8-8)](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/rfi_inspect/rfi_inspect_2459800.ipynb)
+* [rfi_inspect_2459801.ipynb (2022-8-9)](https://nbviewer.jupyter.org/github/HERA-Team/H5C_Notebooks/blob/main/rfi_inspect/rfi_inspect_2459801.ipynb)
